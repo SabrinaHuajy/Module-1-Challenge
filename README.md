@@ -1,6 +1,13 @@
-# Module-1-Challenge
-Challenge of Module 1: HTML, CSS, and Git
+# Module-1-Challenge: HTML, CSS, and Git
 
-This website is created for marketing purpose of the Horiseon company to suit for serch engines, its codebase follows accessibility standards. 
+Horiseon Website
 
-screenshot - find example on the internet 
+This website is created for marketing purpose of the Horiseon company, it is designed to optimise for search engines. In order to acheive this, the codebase of this website follows accessibility standards. 
+
+Link to the Horiseon Website - https://sabrinahuajy.github.io/Module-1-Challenge/
+
+screenshot of the Horiseon Website -
+<img src="assets\images\screenshot1.PNG" alt="screenshot of webpage part 1">
+<img src="assets\images\screenshot2.PNG" alt="screenshot of webpage part 2">
+
+Credit - 2019 Horiseon Social Solution Services, Inc.
