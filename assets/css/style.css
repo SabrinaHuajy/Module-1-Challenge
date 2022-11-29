@@ -1,3 +1,4 @@
+/* CSS universal selector, is used to select all items in an HTML file */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Website header and navigation bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     margin-left: 25px;
 }
 
+/* hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* main content section */
 .content {
     width: 75%;
     display: inline-block;
@@ -129,6 +133,7 @@ p {
     font-size: 36px;
 }
 
+/* aside section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +193,7 @@ p {
     max-width: 150px;
 }
 
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
