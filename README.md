@@ -1,6 +1,4 @@
-# Module-1-Challenge: HTML, CSS, and Git
-
-Horiseon Website
+# Horiseon Website
 
 This website is created for the marketing purpose of the Horiseon company, it is designed to optimise for search engines. In order to acheive this, the codebase of this website follows accessibility standards. 
 
