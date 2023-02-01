@@ -2,7 +2,7 @@
 
 This website is created for the marketing purpose of the Horiseon company, it is designed to optimise for search engines. In order to achieve this, the codebase of this website follows accessibility standards. 
 
-Link to the Horiseon Website - https://sabrinahuajy.github.io/Module-1-Challenge/
+Link to the Horiseon Website - https://sabrinahuajy.github.io/SabrinaHuajy-Horiseon-Website/
 
 screenshot of the Horiseon Website:
 <br>
